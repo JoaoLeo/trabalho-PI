@@ -1,0 +1,1 @@
+alert("Bem vindo ao questionário de satisfação, responda com sua opinião sincera sobre o site.")

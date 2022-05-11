@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+body{
+    background: #ae873f;
+    font-family: 'DotGothic16', sans-serif;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+    text-align: justify;
+    font-weight: bold
+}
+p{
+    color: rgb(9, 7, 7);
+    font-size: 20px;
+    font-weight: bold;
+}
+.produtos{
+    display: flex;
+}
+.produtos p{
+    padding: 20px;
+    text-align: right;
+    text-align: justify;
+}
+
+table{
+    height: 550px;
+    width: 500px;
+    background-color: #bb9469;
+    border-color:black ;
+    border-style:ridge;
+    font-size: 15px;
+    text-align: center;
+}
+.tabelas:hover{
+    background-color: rgba(125, 33, 0, 0.559);
+}
+
+li {
+    font-size: 25px;
+    font-weight: bolder;
+}
+dt{ 
+    font-size: 30px;
+    font-weight: bolder;
+}
+dd{
+    font-size: 25px;
+    font-weight: bolder;
+}
+form{
+    font-size: 30px;
+    font-weight: bolder;
+}
+button{
+    background-color: #bb9469;
+    font-size: 20px;
+    font-weight: bolder;
+}
+button:hover{
+    color:rgba(125, 33, 0, 0.559);
+}
+input{
+    background-color: #bb9469;
+}
+
+
